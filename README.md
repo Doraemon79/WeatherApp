@@ -10,8 +10,9 @@ The Project is called WebApplication3
 •	if you do not set a location it opens an error message; 
 •	If one of the API is down it opens an error message.
 •	It works (see picture “Results”, I called my parents, I can confirm that in Rome it is warm) 
-•	Considering there are just 2 APIs there is not much I can use dependency injection with. 
+•	for the dependency injections please  Check UnityConfig and WeatherAppUnityDependencyResolver
 •	I am very tired but happy (see picture “I look Professional”)
+
 
 
 
